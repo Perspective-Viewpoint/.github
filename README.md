@@ -1,4 +1,4 @@
-![](./logo.png)
+![](./perspective.png)
 ## About
 Perspective is a client-side Minecraft mod that allows players to zoom, change and hold perspectives, have custom textures on named/random entities, take panoramic screenshots, and use super secret settings!
 
